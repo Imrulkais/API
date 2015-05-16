@@ -31,6 +31,8 @@
                     ?>
                 <?php } ?>
             </div>
+                    <a href="<?php echo base_url(); ?>CkController/ckeditor">CK EDITOR</a>
         </div>
+
     </body>
 </html>
