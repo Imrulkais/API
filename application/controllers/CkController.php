@@ -12,7 +12,7 @@ class CkController extends CI_Controller {
         $width = '850px';
         $this->editor($path, $width);
         $this->load->view('ckshow');
-    }   
+    }
 
     function editor($path, $width) {
         //Loading Library For Ckeditor
